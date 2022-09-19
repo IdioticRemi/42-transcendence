@@ -1,0 +1,6 @@
+# Project secrets
+.env
+
+# Docker volumes
+postgres
+pgadmin
