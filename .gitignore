@@ -4,3 +4,4 @@
 # Docker volumes
 postgres
 pgadmin
+uploads
