@@ -2,7 +2,7 @@
     "Servers": {
         "1": {
             "Name": "pgadmin_server",
-            "Group": "Server Group 1",
+            "Group": "Transcendence",
             "Port": 5432,
             "Username": "root",
             "Host": "postgres",
