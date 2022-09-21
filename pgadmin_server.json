@@ -5,9 +5,9 @@
             "Group": "Server Group 1",
             "Port": 5432,
             "Username": "root",
-			"Password": "myrootpassword",
             "Host": "postgres",
-            "MaintenanceDB": "user_db"
+            "MaintenanceDB": "user_db",
+            "SSLMode": "prefer"
         }
     }
 }
