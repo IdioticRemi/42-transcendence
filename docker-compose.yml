@@ -6,6 +6,9 @@ services:
     container_name: postgres
     restart: always
     env_file: .env
+    # dev build
+    ports:
+      - "5432:5432"
     volumes:
     - ./postgres:/var/lib/postgresql/data
     networks:
