@@ -5,3 +5,6 @@
 postgres
 pgadmin
 uploads
+
+# IDE stuff
+.idea
